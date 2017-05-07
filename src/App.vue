@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    test2
+    Vue SSR minimum example
   </div>
 </template>
 
@@ -12,6 +12,6 @@ export default {
 
 <style>
 #app {
-  background-color: #ddd;
+  font-weight: bold;
 }
 </style>

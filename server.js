@@ -13,7 +13,7 @@ const renderer = createBundleRenderer(serverBundle, {
 })
 
 const context = {
-  title: 'default title'
+  title: 'Vue SSR minimum example'
 }
 
 const server = express()
