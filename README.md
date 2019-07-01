@@ -1,6 +1,8 @@
 ## vue-ssr-minimum
 
-This is a minimum example of Vue.js SSR (Server Side Rendering) without using Nuxt.js. The code is based on [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/) and [HackerNews clone built with Vue 2.0](https://github.com/vuejs/vue-hackernews-2.0).
+This is a minimum example of Vue.js SSR (Server Side Rendering) without using Nuxt.js.
+
+The code is based on [Vue.js Server-Side Rendering Guide](https://ssr.vuejs.org/) and [HackerNews clone built with Vue 2.0](https://github.com/vuejs/vue-hackernews-2.0).
 
 ## How to use
 
